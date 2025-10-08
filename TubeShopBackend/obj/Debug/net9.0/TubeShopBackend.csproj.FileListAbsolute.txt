@@ -1,0 +1,152 @@
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\appsettings.json
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.staticwebassets.endpoints.json
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.exe
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.deps.json
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.runtimeconfig.json
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.dll
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.pdb
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.csproj.AssemblyReference.cache
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.AssemblyInfoInputs.cache
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.AssemblyInfo.cs
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.csproj.CoreCompileInputs.cache
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\scopedcss\bundle\TubeShopBackend.styles.css
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShop.2AE717F6.Up2Date
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.dll
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\refint\TubeShopBackend.dll
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.pdb
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.genruntimeconfig.cache
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\ref\TubeShopBackend.dll
+C:\Users\apost\TubeShopBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\Data\prices.json
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\Data\nomenclature.json
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\Data\remnants.json
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\Data\stocks.json
+C:\Users\apost\TubeShopBackend\bin\Debug\net9.0\Data\types.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\appsettings.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\Data\nomenclature.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\Data\prices.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\Data\remnants.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\Data\stocks.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\Data\types.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.staticwebassets.endpoints.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.exe
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.deps.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.runtimeconfig.json
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.dll
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.pdb
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\apostle\Downloads\TubeShopBackend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.csproj.AssemblyReference.cache
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.AssemblyInfoInputs.cache
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.AssemblyInfo.cs
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.csproj.CoreCompileInputs.cache
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\scopedcss\bundle\TubeShopBackend.styles.css
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShop.2AE717F6.Up2Date
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.dll
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\refint\TubeShopBackend.dll
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.pdb
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.genruntimeconfig.cache
+C:\Users\apostle\Downloads\TubeShopBackend\obj\Debug\net9.0\ref\TubeShopBackend.dll
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\appsettings.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\Data\nomenclature.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\Data\prices.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\Data\remnants.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\Data\stocks.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\Data\types.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.staticwebassets.endpoints.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.exe
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.deps.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.runtimeconfig.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.dll
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.pdb
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\scopedcss\bundle\TubeShopBackend.styles.css
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShop.2AE717F6.Up2Date
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.dll
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\refint\TubeShopBackend.dll
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.pdb
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Новая папка\TubeShopBackend\obj\Debug\net9.0\ref\TubeShopBackend.dll
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\appsettings.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\Data\nomenclature.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\Data\prices.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\Data\remnants.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\Data\stocks.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\Data\types.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.staticwebassets.endpoints.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.exe
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.deps.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.runtimeconfig.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.dll
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\TubeShopBackend.pdb
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\scopedcss\bundle\TubeShopBackend.styles.css
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShop.2AE717F6.Up2Date
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.dll
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\refint\TubeShopBackend.dll
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.pdb
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\TubeShopBackend.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Новая папка (2)\TubeShopBackend\obj\Debug\net9.0\ref\TubeShopBackend.dll
